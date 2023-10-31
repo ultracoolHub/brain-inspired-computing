@@ -3,7 +3,7 @@ This is the repository of **brain-like-intelligence** which offers a thorough re
 ## Menu
 - [Dataset](#dataset)
 - [EEG-To-Text](#eeg-to-text)
-- [FMRI-To-Text](#fmri-to-text)
+- [fMRI-To-Text](#fmri-to-text)
 
 ## Dataset
 |Paper|Published in|
@@ -18,7 +18,10 @@ This is the repository of **brain-like-intelligence** which offers a thorough re
 |---|:---:|
 |[Open vocabulary electroencephalography-to-text decoding and zero-shot sentiment classification](https://ojs.aaai.org/index.php/AAAI/article/view/20472)|AAAI 2022|
 |[Aligning Semantic in Brain and Language: A Curriculum Contrastive Method for Electroencephalography-to-Text Generation](https://ieeexplore.ieee.org/document/10248031)|IEEE TNSRE 2023|
-## FMRI-To-Text
+|[DeWave: Discrete EEG Waves Encoding for Brain Dynamics to Text Translation](https://arxiv.org/abs/2309.14030)|NeurIPS 2023|
+
+## fMRI-To-Text
 |Paper|Published in|
 |---|:---:|
+|[Brain2Word: Improving Brain Decoding Methods and Evaluation](https://nips.cc/virtual/2020/20629)|NeurIPS 2020|
 |[Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding](https://aclanthology.org/2022.findings-acl.54)|ACL 2022|
