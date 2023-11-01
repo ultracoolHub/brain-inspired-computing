@@ -1,5 +1,5 @@
-## brain-like-intelligence
-This is the repository of **brain-like-intelligence** which offers a thorough review of the current state of research concerning the application of brain-to-text models.
+## brain-inspired-computing
+This is the repository of **brain-inspired-computing** which offers a thorough review of the current state of research concerning the application of brain-to-text models.
 ## Menu
 - [Dataset](#dataset)
 - [EEG-To-Text](#eeg-to-text)
