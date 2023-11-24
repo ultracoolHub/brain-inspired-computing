@@ -33,7 +33,7 @@ This is the repository of **brain-inspired-computing** which offers a thorough r
 ## MEG-To-Text
 |Paper|Published in|
 |---|:---:|
-|[Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266)|Arxiv 2022, Meta AI|
+|[Decoding speech perception from non-invasive brain recordings](https://www.nature.com/articles/s42256-023-00714-5)|Nature Machine Intelligence 2023|
 
 ## ECoG-To-Text
 |Paper|Published in|
