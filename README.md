@@ -4,6 +4,8 @@ This is the repository of **brain-inspired-computing** which offers a thorough r
 - [Dataset](#dataset)
 - [EEG-To-Text](#eeg-to-text)
 - [fMRI-To-Text](#fmri-to-text)
+- [MEG-To-Text](#meg-to-text)
+- [ECoG-To-Text](#ecog-to-text)
 
 ## Dataset
 |Paper|Published in|
