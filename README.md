@@ -25,3 +25,15 @@ This is the repository of **brain-inspired-computing** which offers a thorough r
 |---|:---:|
 |[Brain2Word: Improving Brain Decoding Methods and Evaluation](https://nips.cc/virtual/2020/20629)|NeurIPS 2020|
 |[Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding](https://aclanthology.org/2022.findings-acl.54)|ACL 2022|
+|[UniCoRN: Unified Cognitive Signal Reconstruction bridging cognitive signals and human language](https://aclanthology.org/2023.acl-long.741/)|ACL 2023|
+|[Semantic reconstruction of continuous language from non-invasive brain recordings](https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1)|Nature Neuroscience 2023|
+
+## MEG-To-Text
+|Paper|Published in|
+|---|:---:|
+|[Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266)|Arxiv 2022, Meta AI|
+
+## ECoG-To-Text
+|Paper|Published in|
+|---|:---:|
+|[Machine translation of corticalcactivity to text with an encoder-decoder framework](https://www.biorxiv.org/content/10.1101/708206v1)|Nature Neuroscience 2020|
