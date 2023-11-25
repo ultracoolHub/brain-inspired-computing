@@ -4,8 +4,8 @@ This is the repository of **brain-inspired-computing** which offers a thorough r
 - [Dataset](#dataset)
 - [EEG-To-Text](#eeg-to-text)
 - [fMRI-To-Text](#fmri-to-text)
-- [MEG-To-Text(SPEECH)](#meg-to-text(speech))
-- [ECoG-To-Text(SPEECH)](#ecog-to-text(speech))
+- [MEG-To-SPEECH](#meg-to-speech)
+- [ECoG-To-SPEECH](#ecog-to-speech)
 
 ## Dataset
 |Paper|Published in|
@@ -30,13 +30,13 @@ This is the repository of **brain-inspired-computing** which offers a thorough r
 |[UniCoRN: Unified Cognitive Signal Reconstruction bridging cognitive signals and human language](https://aclanthology.org/2023.acl-long.741/)|ACL 2023|
 |[Semantic reconstruction of continuous language from non-invasive brain recordings](https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1)|Nature Neuroscience 2023|
 
-## MEG-To-Text(SPEECH)
+## MEG-To-SPEECH
 |Paper|Published in|
 |---|:---:|
 |[Decoding speech perception from non-invasive brain recordings](https://www.nature.com/articles/s42256-023-00714-5)|Nature Machine Intelligence 2023|
 |[TOWARDS DECODING SPEECH PRODUCTION FROM SINGLE-TRIAL MAGNETOENCEPHALOGRAPHY (MEG) SIGNALS](https://ieeexplore.ieee.org/abstract/document/7952714)|ICASSP 2017|
 
-## ECoG-To-Text(SPEECH)
+## ECoG-To-SPEECH
 |Paper|Published in|
 |---|:---:|
 |[Machine translation of corticalcactivity to text with an encoder-decoder framework](https://www.biorxiv.org/content/10.1101/708206v1)|Nature Neuroscience 2020|
