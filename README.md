@@ -34,8 +34,10 @@ This is the repository of **brain-inspired-computing** which offers a thorough r
 |Paper|Published in|
 |---|:---:|
 |[Decoding speech perception from non-invasive brain recordings](https://www.nature.com/articles/s42256-023-00714-5)|Nature Machine Intelligence 2023|
+|[TOWARDS DECODING SPEECH PRODUCTION FROM SINGLE-TRIAL MAGNETOENCEPHALOGRAPHY (MEG) SIGNALS](https://ieeexplore.ieee.org/abstract/document/7952714)|ICASSP 2017|
 
 ## ECoG-To-Text
 |Paper|Published in|
 |---|:---:|
 |[Machine translation of corticalcactivity to text with an encoder-decoder framework](https://www.biorxiv.org/content/10.1101/708206v1)|Nature Neuroscience 2020|
+|[SYNTHESIZING SPEECH FROM ECOG WITH A COMBINATION OF TRANSFORMER-BASED ENCODER AND NEURAL VOCODER](https://ieeexplore.ieee.org/abstract/document/10097004)|ICASSP 2023|
