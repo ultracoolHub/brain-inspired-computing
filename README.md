@@ -39,5 +39,5 @@ This is the repository of **brain-inspired-computing** which offers a thorough r
 ## ECoG-To-Speech
 |Paper|Published in|
 |---|:---:|
-|[Machine translation of corticalcactivity to text with an encoder-decoder framework](https://www.biorxiv.org/content/10.1101/708206v1)|Nature Neuroscience 2020|
-|[Synthesizing speech from ECoG with a combination of transformer-based encoder and neural vocoder](https://ieeexplore.ieee.org/abstract/document/10097004)|ICASSP 2023|
+|[Machine Translation of Corticalcactivity to Text with An Encoder-decoder Framework](https://www.biorxiv.org/content/10.1101/708206v1)|Nature Neuroscience 2020|
+|[Synthesizing Speech from ECoG with A Combination of Transformer-based Encoder and Neural Vocoder](https://ieeexplore.ieee.org/abstract/document/10097004)|ICASSP 2023|
