@@ -6,11 +6,13 @@ This is the repository of **brain-inspired-computing** which offers a thorough r
 - [fMRI-To-Text](#fmri-to-text)
 - [MEG-To-SPEECH](#meg-to-speech)
 - [ECoG-To-SPEECH](#ecog-to-speech)
+<!-- - [CogniVal](#cognival) -->
+
 
 ## Dataset
 |Paper|Published in|
 |---|:---:|
-|[ZuCo, A Simultaneous EEG and Eye-tracking Resource for Natural Sentence Reading](http://arxiv.org/abs/1405.4053v2)|Nature 2018|
+|[ZuCo, A Simultaneous EEG and Eye-tracking Resource for Natural Sentence Reading](http://arxiv.org/abs/1405.4053v2)|Scientific Data 2018|
 |[ZuCo 2.0: A Dataset of Physiological Recordings During Natural Reading and Annotation](https://aclanthology.org/2020.lrec-1.18)|LREC 2020|
 |[Predicting Human Brain Activity Associated with The Meanings of Nouns](https://www.science.org/doi/10.1126/science.1152876)|Science 2008|
 |[Toward A Universal Decoder of Linguistic Meaning from Brain Activation](https://www.nature.com/articles/s41467-018-03068-4)|Nature Communications 2018|
@@ -41,3 +43,9 @@ This is the repository of **brain-inspired-computing** which offers a thorough r
 |---|:---:|
 |[Machine Translation of Corticalcactivity to Text with An Encoder-decoder Framework](https://www.biorxiv.org/content/10.1101/708206v1)|Nature Neuroscience 2020|
 |[Synthesizing Speech from ECoG with A Combination of Transformer-based Encoder and Neural Vocoder](https://ieeexplore.ieee.org/abstract/document/10097004)|ICASSP 2023|
+
+<!-- ## CogniVal
+|Paper|Published in|
+|---|:---:|
+|[CogniVal: A Framework for Cognitive Word Embedding Evaluation](https://www.biorxiv.org/content/10.1101/708206v1)|Nature Neuroscience 2020| -->
+
