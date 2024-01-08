@@ -1,7 +1,7 @@
-## Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review
-This is the repository of **brain-inspired-computing** which offers a thorough review of the current state of research concerning the application of brain-to-text models.
+## Human-computer Interaction for Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review
+This is the repository of **HCI for brain-inspired-computing** which offers a thorough review of the current state of research concerning the application of brain-to-text models.
 
-**Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review**  
+**Human-computer Interaction for Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review**  
 [Paper](http://arxiv.org/abs/2312.07213)
  
 [![arXiv](https://img.shields.io/badge/arXiv-2312.07213-b31b1b.svg)](http://arxiv.org/abs/2312.07213) 
@@ -12,8 +12,7 @@ This is the repository of **brain-inspired-computing** which offers a thorough r
 
 
 ## Abstract
-The continuous development of artificial intelligence has a profound impact on biomedical research and other fields.Brain-inspired computing is an important intersection of multimodal technology and biomedical field. This paper provides a comprehensive review of machine learning (ML) and deep learning (DL) models in brain-inspired computing, tracking their evolution, application value, challenges, and potential research trajectories. First, the basic concepts and development history are reviewed, and their evolution is divided into two stages: recent machine learning and current deep learning, emphasizing the importance of each stage in the research state of brain-inspired computing. In addition, the latest progress and key techniques of deep learning in different tasks of brain-inspired computing are introduced from six perspectives. Despite significant progress, challenges remain in making full use of its capabilities. This paper aims to provide a comprehensive review of brain-inspired computing models based on machine learning and deep learning, highlighting their potential in various applications and providing a valuable reference for future academic research.
-
+The continuous development of artificial intelligence has a profound impact on biomedical research and other fields.Brain-inspired computing is an important intersection of multimodal technology and biomedical field. This paper presents a comprehensive review of machine learning (ML) and deep learning (DL) models applied in human-computer interaction for brain-inspired computing, tracking their evolution, application value, challenges, and potential research trajectories. First, the basic concepts and development history are reviewed, and their evolution is divided into two stages: recent machine learning and current deep learning, emphasizing the importance of each stage in the research state of human-computer interaction for brain-inspired computing. In addition, the latest progress and key techniques of deep learning in different tasks of human-computer interaction for brain-inspired computing are introduced from six perspectives. Despite significant progress, challenges remain in making full use of its capabilities. This paper aims to provide a comprehensive review of human-computer interaction for brain-inspired computing models based on machine learning and deep learning, highlighting their potential in various applications and providing a valuable reference for future academic research. 
 
 ## Citation
 If you find our work useful in your research, please consider citing:
