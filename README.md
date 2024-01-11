@@ -17,10 +17,10 @@ The continuous development of artificial intelligence has a profound impact on b
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@misc{yu2023braininspired,
-      title={Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review}, 
-      author={Bihui Yu and Sibo Zhang},
-      year={2023},
+@misc{yu2024humancomputer,
+      title={Human-computer Interaction for Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review}, 
+      author={Bihui Yu and Sibo Zhang and Lili Zhou and Jingxuan Wei and Linzhuang Sun and Liping Bu},
+      year={2024},
       eprint={2312.07213},
       archivePrefix={arXiv},
       primaryClass={cs.AI}
