@@ -32,8 +32,8 @@ If you find our work useful in your research, please consider citing:
 - [Dataset](#dataset)
 - [EEG-To-Text](#eeg-to-text)
 - [fMRI-To-Text](#fmri-to-text)
-- [MEG-To-SPEECH](#meg-to-speech)
-- [ECoG-To-SPEECH](#ecog-to-speech)
+- [MEG-To-Text](#meg-to-text)
+- [ECoG-To-Text](#ecog-to-text)
 <!-- - [CogniVal](#cognival) -->
 
 
@@ -67,7 +67,7 @@ If you find our work useful in your research, please consider citing:
 |[UniCoRN: Unified Cognitive Signal Reconstruction Bridging Cognitive Signals and Human Language](https://aclanthology.org/2023.acl-long.741/)|ACL 2023|
 |[Semantic Reconstruction of Continuous Language from Non-invasive Brain Recordings](https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1)|Nature Neuroscience 2023|
 
-## MEG-To-Speech
+## MEG-To-Text
 |Paper|Published in|
 |---|:---:|
 |[Automatic speech activity recognition from MEG signals using seq2seq learning](https://ieeexplore.ieee.org/abstract/document/8717186)|IEEE NER 2019|
@@ -77,7 +77,7 @@ If you find our work useful in your research, please consider citing:
 |[Decoding Speech Perception from Non-invasive Brain Recordings](https://www.nature.com/articles/s42256-023-00714-5)|Nature Machine Intelligence 2023|
 
 
-## ECoG-To-Speech
+## ECoG-To-Text
 |Paper|Published in|
 |---|:---:|
 |[Machine Translation of Corticalcactivity to Text with An Encoder-decoder Framework](https://www.biorxiv.org/content/10.1101/708206v1)|Nature Neuroscience 2020|
