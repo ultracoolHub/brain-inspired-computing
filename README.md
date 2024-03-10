@@ -1,4 +1,4 @@
-## Human-computer Interaction for Brain-inspired Computing Based on Machine Learning And Deep Learning:A Review
+## Human-computer Interaction for Brain-inspired Computing Based on Machine Learning And Deep Learning: A Review
 This is the repository of **HCI for brain-inspired-computing** which offers a thorough review of the current state of research concerning the application of brain-to-text(speech) models.
 
 **Human-computer Interaction for Brain-inspired Computing Based on Machine Learning And Deep Learning: A Review**  
