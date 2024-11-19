@@ -1,5 +1,5 @@
 ## Brain-inspired Computing Based on Deep Learning for Human-computer Interaction: A Review
-This is the repository of **HCI for brain-inspired-computing** which offers a thorough review of the current state of research concerning the application of brain-to-text(speech) models.
+This is the repository of **Brain-inspired-computing for HCI** which offers a thorough review of the current state of research concerning the application of brain-to-text(speech) models.
 
 **Brain-inspired Computing Based on Deep Learning for Human-computer Interaction: A Review**  
 [Paper](http://arxiv.org/abs/2312.07213)
