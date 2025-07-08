@@ -2,8 +2,8 @@
 This is the repository of **Brain-inspired-computing for HCI** which offers a thorough review of the current state of research concerning the application of brain-to-text(speech) models.
 
 **Brain-inspired Computing Based on Deep Learning for Human-computer Interaction: A Review**  
-[Paper](http://arxiv.org/abs/2312.07213)
- 
+[Neurocomputing, 2025:130928](https://www.sciencedirect.com/science/article/abs/pii/S0925231225016005)
+Or, you can read the preprint version from axiv.
 [![arXiv](https://img.shields.io/badge/arXiv-2312.07213-b31b1b.svg)](http://arxiv.org/abs/2312.07213) 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
@@ -17,13 +17,13 @@ The continuous development of artificial intelligence has a profound impact on b
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@misc{yu2024humancomputer,
-      title={Brain-inspired Computing Based on Deep Learning for Human-computer Interaction: A Review}, 
-      author={Bihui Yu and Sibo Zhang and Lili Zhou and Jingxuan Wei and Linzhuang Sun and Liping Bu},
-      year={2024},
-      eprint={2312.07213},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{yu2025brain,
+  title={Brain-inspired Computing Based on Deep Learning for Human-computer Interaction: A Review},
+  author={Yu, Bihui and Zhang, Sibo and Zhou, Lili and Wei, Jingxuan and Sun, Linzhuang and Bu, Liping},
+  journal={Neurocomputing},
+  pages={130928},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
